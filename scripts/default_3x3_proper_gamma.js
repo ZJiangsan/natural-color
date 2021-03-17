@@ -93,4 +93,3 @@ var gain = 2.5;
 var gammaAdj = 2.2;
 var gainL = 1;
 
-return ProperGamma_S2_to_sRGB(getSolarIrr(), T, gain, gammaAdj, gainL);
